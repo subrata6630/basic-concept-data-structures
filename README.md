@@ -32,6 +32,6 @@
 
 ট্রি ডাটা স্ট্রাকচার যতটা না গাছের মত দেখে, তার চেয়ে বেশি দেখতে হায়রারকিকাল স্ট্রাকচারের মতো। আবার অনেকটা দাদা, বাবা, পুত্রের সম্পর্কের মতও ভাবা যায়।<
 
-<img src="https://cdn-images-1.medium.com/max/800/0*VIBSrFALP1wx6sQj.png" alt="Smiley face" height="142" width="142">
+<img src="https://cdn-images-1.medium.com/max/800/0*VIBSrFALP1wx6sQj.png" alt="Smiley face" height="242" width="100">
 
 
